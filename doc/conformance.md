@@ -2,7 +2,9 @@
 
 作者：苏勃(subo)
 
-本文件是 `mtc-link` 之上的符合性。帧、口、明文和加密以 `mtc-link` 的 `doc/protocol.md` 为准。
+许可：Apache-2.0，全文见仓库根目录 `LICENSE`。
+
+本文件是 `mtc-link` 之上的符合性，也是家充剖面。帧、口、明文和加密以 `mtc-link` 的 `doc/protocol.md` 为准。链路剖面的参考实现仍是不满 1 秒不停、到 1.2 秒输出为 0。两个剖面不混用。
 
 ## 判定
 
